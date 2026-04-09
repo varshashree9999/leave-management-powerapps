@@ -9,7 +9,6 @@ Features
 - Employees can apply for leave 
 - Automated approval workflow using Power Automate
 - Real-time leave status tracking (Pending / Approved / Rejected)
-- Manager dashboard for approving or rejecting requests
 - Centralized data storage for all leave records
 
 Technologies Used
