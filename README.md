@@ -1,4 +1,4 @@
-# leave-management-powerapps
+# leave-management-canvas apps
 Leave management app using Power Apps & Automate, Share point as a Backend.
 
 The Leave Management System is a Power Apps-based application designed to streamline and automate the process of applying, tracking, and approving employee leave requests.
