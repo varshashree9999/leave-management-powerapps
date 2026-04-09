@@ -24,3 +24,10 @@ Technologies Used
 
 ## 🎥 Demo Video https://drive.google.com/file/d/1dirYMhpz2XfSCvDyAbzA2BcZ5t8a_0K-/view?usp=sharing
 
+## 📸 Screenshots
+01_Login_Screen.jpg
+02_Leave_Submit_Screen.jpg
+03_SharePoint_Pending_Status.jpg
+04_Manager_Approval_Outlook.jpg
+05_SharePoint_Approved_Status.jpg
+
