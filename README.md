@@ -25,9 +25,17 @@ Technologies Used
 ## 🎥 Demo Video https://drive.google.com/file/d/1dirYMhpz2XfSCvDyAbzA2BcZ5t8a_0K-/view?usp=sharing
 
 ## 📸 Screenshots
+**1. Login Screen**
 ![Login Screen](01_Login_Screen.jpg)
-![Leave Submit](02_Leave_Submit_Screen.jpg)
-![SharePoint Pending](03_SharePoint_Pending_Status.jpg)
-![Manager Approval](04_Manager_Approval_Outlook.jpg)
-![SharePoint Approved](05_SharePoint_Approved_Status.jpg)
 
+**2. Leave Submit Screen**
+![Leave Submit](02_Leave_Submit_Screen.jpg)
+
+**3. SharePoint Pending Status**
+![SharePoint Pending](03_SharePoint_Pending_Status.jpg)
+
+**4. Manager Approval Outlook**
+![Manager Approval](04_Manager_Approval_Outlook.jpg)
+
+**5. SharePoint Approved Status**
+![SharePoint Approved](05_SharePoint_Approved_Status.jpg)
